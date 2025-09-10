@@ -1,4 +1,4 @@
-Readme (delete the above when you're ready to submit, and modify the below so with your links and descriptions)
+Readme 
 ---
 
 ## WPI Gordon Library Book Borrowing Tracker
